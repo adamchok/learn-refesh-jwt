@@ -1,7 +1,7 @@
-package com.project.learn_refesh_jwt.service;
+package com.project.learn_refresh_jwt.service;
 
-import com.project.learn_refesh_jwt.model.User;
-import com.project.learn_refesh_jwt.repository.UserRepository;
+import com.project.learn_refresh_jwt.model.User;
+import com.project.learn_refresh_jwt.repository.UserRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

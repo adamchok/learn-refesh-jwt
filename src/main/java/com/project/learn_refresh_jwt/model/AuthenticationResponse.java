@@ -1,8 +1,7 @@
-package com.project.learn_refesh_jwt.model;
+package com.project.learn_refresh_jwt.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
-import lombok.Data;
 import lombok.Getter;
 
 @AllArgsConstructor

@@ -1,10 +1,10 @@
-package com.project.learn_refesh_jwt.service;
+package com.project.learn_refresh_jwt.service;
 
-import com.project.learn_refesh_jwt.model.AuthenticationResponse;
-import com.project.learn_refesh_jwt.model.Token;
-import com.project.learn_refesh_jwt.model.User;
-import com.project.learn_refesh_jwt.repository.TokenRepository;
-import com.project.learn_refesh_jwt.repository.UserRepository;
+import com.project.learn_refresh_jwt.model.AuthenticationResponse;
+import com.project.learn_refresh_jwt.model.Token;
+import com.project.learn_refresh_jwt.model.User;
+import com.project.learn_refresh_jwt.repository.TokenRepository;
+import com.project.learn_refresh_jwt.repository.UserRepository;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.Data;

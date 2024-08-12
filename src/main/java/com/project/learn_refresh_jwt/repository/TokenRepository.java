@@ -1,6 +1,6 @@
-package com.project.learn_refesh_jwt.repository;
+package com.project.learn_refresh_jwt.repository;
 
-import com.project.learn_refesh_jwt.model.Token;
+import com.project.learn_refresh_jwt.model.Token;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

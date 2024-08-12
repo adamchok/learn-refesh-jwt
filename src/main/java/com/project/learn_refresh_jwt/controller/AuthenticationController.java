@@ -1,8 +1,8 @@
-package com.project.learn_refesh_jwt.controller;
+package com.project.learn_refresh_jwt.controller;
 
-import com.project.learn_refesh_jwt.model.AuthenticationResponse;
-import com.project.learn_refesh_jwt.model.User;
-import com.project.learn_refesh_jwt.service.AuthenticationService;
+import com.project.learn_refresh_jwt.model.AuthenticationResponse;
+import com.project.learn_refresh_jwt.model.User;
+import com.project.learn_refresh_jwt.service.AuthenticationService;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.AllArgsConstructor;

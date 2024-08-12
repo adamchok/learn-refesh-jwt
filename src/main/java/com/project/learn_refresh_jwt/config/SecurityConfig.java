@@ -1,7 +1,7 @@
-package com.project.learn_refesh_jwt.config;
+package com.project.learn_refresh_jwt.config;
 
-import com.project.learn_refesh_jwt.filter.JwtAuthenticationFilter;
-import com.project.learn_refesh_jwt.service.UserDetailsServiceImp;
+import com.project.learn_refresh_jwt.filter.JwtAuthenticationFilter;
+import com.project.learn_refresh_jwt.service.UserDetailsServiceImp;
 import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

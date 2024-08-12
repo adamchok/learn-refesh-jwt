@@ -1,4 +1,4 @@
-package com.project.learn_refesh_jwt.model;
+package com.project.learn_refresh_jwt.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

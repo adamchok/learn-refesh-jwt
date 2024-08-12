@@ -1,4 +1,4 @@
-package com.project.learn_refesh_jwt.controller;
+package com.project.learn_refresh_jwt.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
